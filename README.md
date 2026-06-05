@@ -30,4 +30,4 @@ The **QR Code Generator** is a simple and elegant web-based tool that allows use
 
 
 ## ⚙️ Setup  
-Try it here: **[QR Code Generator](https://rajnandiniini.github.io/QR-generator/index.html)**
+Try it here: **[QR Code Generator](https://rajnyandini.github.io/QR-generator/index.html)**
